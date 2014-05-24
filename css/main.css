@@ -10,4 +10,5 @@ h2 a, #nav a, footer a { border-bottom: 1px dotted #000 }
 #content { line-height: 1.5em; margin: 70px 0 }
 #content p { margin-bottom: 30px }
 .post { margin-bottom: 70px }
+img { margin: 0 5px; border: 1px solid black }
 
