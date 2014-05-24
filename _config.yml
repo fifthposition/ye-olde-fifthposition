@@ -1,0 +1,10 @@
+# Site settings
+title: The Blog As Best As I Remember It
+email: ben@silver-chalice.com
+description: "And this is the blog, as best as I can remember it"
+baseurl: ""
+url: "http://fifthposition.org"
+
+# Build settings
+markdown: kramdown
+permalink: /:title/ 
