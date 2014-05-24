@@ -1,14 +1,15 @@
 
-body { background-color: /*#1C6BA0 */ /* #e6f1f3 */ /* #dbf3dd */ #fff; font: normal medium Palatino, serif }
+body { background-color: /*#1C6BA0 */ /* #e6f1f3 */ /* #dbf3dd */ #084666; color: #e0e0e0; font: normal medium Palatino, serif }
 #wrapper { width: 800px; margin: 70px auto }
 h1, h2, h3, header p, footer p { font-family: Arial, sans-serif; font-weight: 300 }
 h2 { font-size: larger }
 h3 { font-size: medium }
-p.date, header p, footer p { color: #999 }
-header a, h1 a, h2 a, footer a { text-decoration: none; color: inherit }
-h2 a, #nav a, footer a { border-bottom: 1px dotted #000 }
+a { color: inherit; text-decoration: none; border-bottom: 1px dotted #e0e0e0 }
+p.date, header p, footer p { color: #8badbf }
+header a, h1 a, h2 a, footer a { border: none; text-decoration: none; color: inherit }
+h2 a, #nav a, footer a { border-bottom: 1px dotted #8badbf }
 #content { line-height: 1.5em; margin: 70px 0 }
 #content p { margin-bottom: 30px }
 .post { margin-bottom: 70px }
-img { margin: 0 5px; border: 1px solid black }
+img { margin: 0 5px; border: 1px solid #e0e0e0 }
 
