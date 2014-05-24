@@ -1,5 +1,6 @@
 
-body { background-color: /*#1C6BA0 */ /* #e6f1f3 */ #fff; width: 800px; margin: 70px auto; font: normal medium Palatino, serif }
+body { background-color: /*#1C6BA0 */ /* #e6f1f3 */ #fff; font: normal medium Palatino, serif }
+#wrapper { width: 800px; margin: 70px auto }
 h1, h2, h3, footer p { font-family: Arial, sans-serif; font-weight: 300 }
 h2 { font-size: larger }
 h3 { font-size: medium }
