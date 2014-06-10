@@ -41,6 +41,7 @@ endfunc
 
 It is then called like so (again, from the docs):
 
+{% highlight vim %}
 let sortedlist = sort(mylist, "MyCompare")
 let sortedlist = sort(mylist, "MyCompare")
 {% endhighlight %}
