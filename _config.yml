@@ -7,4 +7,5 @@ url: "http://fifthposition.org"
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
 permalink: /:title/ 
